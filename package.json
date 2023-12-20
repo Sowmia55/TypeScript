@@ -1,0 +1,23 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "Install nodeJS\r Verify node --v, npm --v, npx --v (npm,npx are executables)\r npm init -y\r npm i typescript\r npx tsc --init --rootdir src --outdir lib(along with this tsc compiler will be installed, will generate tsconfig file)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sowmia55/TypeScript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sowmia55/TypeScript/issues"
+  },
+  "homepage": "https://github.com/Sowmia55/TypeScript#readme",
+  "dependencies": {
+    "typescript": "^5.3.3"
+  }
+}
