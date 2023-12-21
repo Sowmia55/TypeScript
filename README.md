@@ -2,7 +2,10 @@
 
 node provides runtime environment for javascript to run
 
+typescript
 https://cognizant.udemy.com/course/typescript-for-professionals/learn/lecture/22007264#overview
+javascript
+https://cognizant.udemy.com/course/javascript-basics-for-beginners/learn/lecture/10688692#overview
 
 Install nodeJS
 Verify node --v, npm --v, npx --v (npm,npx are executables)
