@@ -23,3 +23,6 @@ npm i ts-node
 creating react app
 npx create-react-app example --template typescript
 open terminal and "npm start"
+
+//alt and down arrow to move line
+//shift alt and down arrow to duplicate line
